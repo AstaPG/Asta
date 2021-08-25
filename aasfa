@@ -1,0 +1,37 @@
+/ **
+ * @name GGO Kirito
+ * @author VaporousCreeper
+ * @ versão 1.2.X
+ * @description Um tema com Kirito e Deathgun lutando no GGO (Gun Gale Online)
+ * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ * /
+
+@import  url ( 'https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css' );
+@import  url ( 'https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css' );
+
+: root {
+    --background :  url ( 'https://images.alphacoders.com/632/632525.png' --background :  url ( 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990555f3-7139-4e8d-8ed0-83d23301e738/dedoqvx-6582d086-1448-44e4-ba63-8b157e33f591.jpg/v1/fill/w_1165,h_686,q_70,strp/asta_berserk__black_clover__by_nightmarexunsworth_dedoqvx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzU0IiwicGF0aCI6IlwvZlwvOTkwNTU1ZjMtNzEzOS00ZThkLThlZDAtODNkMjMzMDFlNzM4XC9kZWRvcXZ4LTY1ODJkMDg2LTE0NDgtNDRlNC1iYTYzLThiMTU3ZTMzZjU5MS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.z1IZbW0ZfXKHFGksxI50CEFbKpprNIPDNZKpM7hs0ug' );
+    --activetext-color : branco;
+
+    --primary1-color : vermelho;
+    --primary2-color :  rgba ( 255 , 0 , 0 , 0,5 );
+    --primary3-color :  rgba ( 100 , 0 , 0 , 0,6 );
+
+    --secondary1-color :  rgba ( 50 , 50 , 50 , 0,3 );
+    --secondary2-color :  rgba ( 100 , 100 , 100 , 0,5 );
+    --secondary3-color :  rgba ( 0 , 0 , 0 , 0,5 );
+
+    --transparência-1 :  gradiente linear (para a direita ,  rgba ( 0 , 0 , 0 , 0,5 ) ,  rgba ( 0 , 0 , 0 , 0,5 ));
+    - transparência-2 :  gradiente linear (para a direita ,  rgba ( 0 , 0 , 0 , 0,5 ) ,  rgba ( 0 , 0 , 0 , 0,5 ));
+    - transparência-3 :  gradiente linear (para a direita ,  rgba ( 0 , 0 , 0 , 0,5 ) ,  rgba ( 0 , 0 , 0 , 0,5 ));
+    - transparência-4 :  gradiente linear (para a direita ,  rgba ( 0 , 0 , 0 , 0,5 ) ,  rgba ( 0 , 0 , 0 , 0,5 ));
+    - transparência-5 :  gradiente linear (para a direita ,  rgba ( 0 , 0 , 0 , 0,5 ) ,  rgba ( 0 , 0 , 0 , 0,5 ));
+}
+  
+/ *
+Tema pertencente e fabricado por VaporousCreeper # 9514
+  
+Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+Módulo Transparency2: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - Por Ruben7173 # 5048
+Os 2 itens acima não são meus, eles vão para lá, proprietários respeitados 
+* /
